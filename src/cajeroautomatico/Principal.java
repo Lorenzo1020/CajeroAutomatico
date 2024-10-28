@@ -7,6 +7,10 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// Declaramos variables
+		
+		System.out.println("Hola mundo");
+		System.out.println("Se feliz");
+		
 		Scanner lectura = new Scanner(System.in); // Crea una instancia de Scanner para leer la entrada de datos
 		int id;
 		String nombre;
